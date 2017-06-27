@@ -1,0 +1,13 @@
+body {
+	margin: 200px auto;
+	text-align: center;
+	background-color: white;
+	background-size: 100%;
+}
+
+h1 {
+	font-weight: lighter;
+	font-family: 'Open Sans', sans-serif; 
+	font-size: 3em;
+}
+
